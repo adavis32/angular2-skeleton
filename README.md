@@ -1,6 +1,6 @@
 # angular2-skeleton
-skeleton-project for angular2 apps
-no node_modules
+* skeleton-project for angular2 apps
+* no node_modules
 
 # Steps:
 1. in terminal paste clone cmd in project's root directory
