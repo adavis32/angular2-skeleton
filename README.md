@@ -11,9 +11,9 @@ no node_modules
 6. paste existing repository cmd in terminal to add remote origin
 7. change title tag in index.html 
 # in terminal:
-  1. run: git add -A
-  2. push to origin: git push -u origin master
-  3. commit change: git commit -m "message for what was changed"
-  4. run: git push origin master
+1. run: git add -A
+2. push to origin: git push -u origin master
+3. commit change: git commit -m "message for what was changed"
+4. run: git push origin master
 # install node_modules:
 1. make sure you are in the new project's file and run: npm install
